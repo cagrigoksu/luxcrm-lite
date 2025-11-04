@@ -1,1 +1,1 @@
-# smartcrm-lite
+# LuxCRM-Lite
