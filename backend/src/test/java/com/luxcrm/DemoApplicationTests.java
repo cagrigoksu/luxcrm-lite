@@ -1,4 +1,4 @@
-package com.luxcrm.backend;
+package com.luxcrm;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
